@@ -17,7 +17,7 @@ app.use('/api/contact', middlewareAuth.verifyToken, controllerContact);
 
 const PORT = process.env.PORT || 3000; 
 app.get('/', (req, res) => {
-    res.send('<h2>Bienvenido a la API</h2>');
+    res.send('<h2>Bienvenido a la API</h2> ${PORT}');
 });
 
 
