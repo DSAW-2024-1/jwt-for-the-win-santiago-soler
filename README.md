@@ -50,5 +50,6 @@ Crear endpoints seguros en el backend utilizando una capa de seguridad basada en
 - Si la tarea no está desplegada, no será calificada.
 - No se calificarán tareas tardías.
 - Si el repositorio no se marca, se obtendrá una calificación de 0.
-
+Santiago Soler Prado
+no la pude desplegar debido a este error:![alt text](image.png)
 ¡Buena suerte con la actividad! 
